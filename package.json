@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zkochan/mos-init"
+    "url": "https://github.com/mosjs/mos-init"
   },
   "keywords": [
     "mos",
@@ -39,9 +39,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zkochan/mos-init/issues"
+    "url": "https://github.com/mosjs/mos-init/issues"
   },
-  "homepage": "https://github.com/zkochan/mos-init#readme",
+  "homepage": "https://github.com/mosjs/mos-init#readme",
   "dependencies": {
     "arr-exclude": "^1.0.0",
     "the-argv": "^1.0.0",

@@ -2,10 +2,10 @@
 # mos-init
 <!--/@-->
 
-Add [mos](https://github.com/zkochan/mos) to your project
+Add [mos](https://github.com/mosjs/mos) to your project
 
 <!--@shields.flatSquare('npm', 'travis', 'coveralls')-->
-[![NPM version](https://img.shields.io/npm/v/mos-init.svg?style=flat-square)](https://www.npmjs.com/package/mos-init) [![Build status for master](https://img.shields.io/travis/zkochan/mos-init/master.svg?style=flat-square)](https://travis-ci.org/zkochan/mos-init) [![Test coverage for master](https://img.shields.io/coveralls/zkochan/mos-init/master.svg?style=flat-square)](https://coveralls.io/r/zkochan/mos-init?branch=master)
+[![NPM version](https://img.shields.io/npm/v/mos-init.svg?style=flat-square)](https://www.npmjs.com/package/mos-init) [![Build status for master](https://img.shields.io/travis/mosjs/mos-init/master.svg?style=flat-square)](https://travis-ci.org/mosjs/mos-init) [![Test coverage for master](https://img.shields.io/coveralls/mosjs/mos-init/master.svg?style=flat-square)](https://coveralls.io/r/mosjs/mos-init?branch=master)
 <!--/@-->
 
 <!--@installation()-->
@@ -31,7 +31,7 @@ const mosInit = require('mos-init')
 * * *
 
 <!--@dependencies({ shield: 'flat-square' })-->
-## <a name="dependencies">Dependencies</a> [![Dependency status for master](https://img.shields.io/david/zkochan/mos-init/master.svg?style=flat-square)](https://david-dm.org/zkochan/mos-init/master)
+## <a name="dependencies">Dependencies</a> [![Dependency status for master](https://img.shields.io/david/mosjs/mos-init/master.svg?style=flat-square)](https://david-dm.org/mosjs/mos-init/master)
 
 - [arr-exclude](https://github.com/sindresorhus/arr-exclude): Exclude certain items from an array
 - [the-argv](https://github.com/joakimbeng/the-argv): The part of argv you want
@@ -40,7 +40,7 @@ const mosInit = require('mos-init')
 <!--/@-->
 
 <!--@devDependencies({ shield: 'flat-square' })-->
-## <a name="dev-dependencies">Dev Dependencies</a> [![devDependency status for master](https://img.shields.io/david/dev/zkochan/mos-init/master.svg?style=flat-square)](https://david-dm.org/zkochan/mos-init/master#info=devDependencies)
+## <a name="dev-dependencies">Dev Dependencies</a> [![devDependency status for master](https://img.shields.io/david/dev/mosjs/mos-init/master.svg?style=flat-square)](https://david-dm.org/mosjs/mos-init/master#info=devDependencies)
 
 - [chai](https://github.com/chaijs/chai): BDD/TDD assertion library for node.js and the browser. Test framework agnostic.
 - [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog): Commitizen adapter following the conventional-changelog format.
