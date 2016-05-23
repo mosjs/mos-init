@@ -34,6 +34,7 @@ const mosInit = require('mos-init')
 ## <a name="dependencies">Dependencies</a> [![Dependency status for master](https://img.shields.io/david/mosjs/mos-init/master.svg?style=flat-square)](https://david-dm.org/mosjs/mos-init/master)
 
 - [arr-exclude](https://github.com/sindresorhus/arr-exclude): Exclude certain items from an array
+- [core-js](https://github.com/zloirock/core-js): Standard library
 - [the-argv](https://github.com/joakimbeng/the-argv): The part of argv you want
 - [write-pkg](https://github.com/sindresorhus/write-pkg): Write a package.json file
 
